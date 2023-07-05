@@ -2,7 +2,7 @@ import '@testing-library/jest-dom/extend-expect';
 import React from 'react';
 import withAuthenticationRequired from '../src/with-authentication-required';
 import { render, screen, waitFor, act } from '@testing-library/react';
-import { Auth0Client, User } from '@auth0/auth0-spa-js';
+import { Auth0Client, User } from '@q42philips/auth0-spa-js';
 import Auth0Provider from '../src/auth0-provider';
 import { Auth0ContextInterface, initialContext } from '../src/auth0-context';
 import { defer } from './helpers';

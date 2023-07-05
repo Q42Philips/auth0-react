@@ -1,4 +1,4 @@
-import { User } from '@auth0/auth0-spa-js';
+import { User } from '@q42philips/auth0-spa-js';
 import { AuthState } from './auth-state';
 
 type Action =

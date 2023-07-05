@@ -15,7 +15,7 @@ import {
   RedirectLoginResult,
   GetTokenSilentlyOptions,
   User,
-} from '@auth0/auth0-spa-js';
+} from '@q42philips/auth0-spa-js';
 import Auth0Context, {
   Auth0ContextInterface,
   LogoutOptions,

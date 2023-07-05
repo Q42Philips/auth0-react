@@ -30,5 +30,5 @@ export {
   InMemoryCache,
   LocalStorageCache,
   Cacheable,
-} from '@auth0/auth0-spa-js';
+} from '@q42philips/auth0-spa-js';
 export { OAuthError } from './errors';
