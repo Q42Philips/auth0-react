@@ -96,6 +96,6 @@
     "react-dom": "^16.11.0 || ^17 || ^18"
   },
   "dependencies": {
-    "@q42philips/auth0-spa-js": "^2.0.8"
+    "@q42philips/auth0-spa-js": "2.0.8-alpha.0"
   }
 }
