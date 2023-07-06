@@ -1,7 +1,7 @@
 {
   "author": "Auth0",
   "name": "@q42philips/auth0-react",
-  "version": "2.1.1",
+  "version": "2.1.1-alpha.0",
   "description": "Auth0 SDK for React Single Page Applications (SPA)",
   "keywords": [
     "auth0",
